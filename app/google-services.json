@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527779777997",
+    "firebase_url": "https://schoolmealcreditwatcher.firebaseio.com",
+    "project_id": "schoolmealcreditwatcher",
+    "storage_bucket": "schoolmealcreditwatcher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527779777997:android:17ae0e22a48148ee784884",
+        "android_client_info": {
+          "package_name": "com.hoyahacks.mealalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527779777997-jblpakj2h8lgi45kukcgdlhvosn0q84u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoyahacks.mealalert",
+            "certificate_hash": "942a267e93470da428a2317a64b8884b059ff7a3"
+          }
+        },
+        {
+          "client_id": "527779777997-5neqppab50v6h8k612lpch6156h6641f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMbpahUwh2q07ZFS1_fGUT_NgQ5uZUJeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527779777997-5neqppab50v6h8k612lpch6156h6641f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
